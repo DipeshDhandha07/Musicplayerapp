@@ -13,7 +13,7 @@ This app can select multiple songs and play songs too.
 https://github.com/DipeshDhandha07/Musicplayerapp.git
 ```
 
-2. Visual Studio Community 2022
+2. Microsoft Visual Studio Community 2022
 ```html
 https://visualstudio.microsoft.com/vs/community/
 ```
